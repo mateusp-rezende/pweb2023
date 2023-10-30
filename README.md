@@ -1,2 +1,2 @@
 # pweb2023
-Atividades desenvolvidas no curso de programação web
+Atividades desenvolvidas no curso de programação web cuscuz
